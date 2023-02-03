@@ -10,4 +10,4 @@
 
       * Number of ladders (l) followed by l lines each containing 2 numbers denoting the start and end positions of the ladder.
 
-      * Number of players (p) followed by p lines each containing a name.
+      * Number of players (p) followed by p lines each containing a name,id,path
